@@ -1,6 +1,10 @@
-//Nama : Baron Albana Achmad
-//NIM : 24060122130073
-
+/**
+ * File      : Titik.java		21/02/24
+ * Nama penulis   : Baron Albana Achmad
+ * NIM               : 24060122130073
+ * Deskripsi : Class yang berisi main dari Titik
+ * 
+ */
 class Titik
 {
 	double absis, ordinat;

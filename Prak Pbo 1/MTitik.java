@@ -1,3 +1,11 @@
+/**
+ * File      : MTitik.java		21/02/24
+ * Nama penulis   : Baron Albana Achmad
+ * NIM               : 24060122130073
+ * Deskripsi : Driver Main dari Titik.java
+ * 
+ */
+
 class MTitik
 {
 	public static void main(String[] args)
